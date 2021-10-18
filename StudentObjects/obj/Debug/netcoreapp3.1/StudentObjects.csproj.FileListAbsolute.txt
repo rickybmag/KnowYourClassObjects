@@ -1,0 +1,14 @@
+C:\Users\Rmagdaleno\source\repos\StudentObjects\StudentObjects\obj\Debug\netcoreapp3.1\StudentObjects.csproj.AssemblyReference.cache
+C:\Users\Rmagdaleno\source\repos\StudentObjects\StudentObjects\obj\Debug\netcoreapp3.1\StudentObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rmagdaleno\source\repos\StudentObjects\StudentObjects\obj\Debug\netcoreapp3.1\StudentObjects.AssemblyInfoInputs.cache
+C:\Users\Rmagdaleno\source\repos\StudentObjects\StudentObjects\obj\Debug\netcoreapp3.1\StudentObjects.AssemblyInfo.cs
+C:\Users\Rmagdaleno\source\repos\StudentObjects\StudentObjects\obj\Debug\netcoreapp3.1\StudentObjects.csproj.CoreCompileInputs.cache
+C:\Users\Rmagdaleno\source\repos\StudentObjects\StudentObjects\bin\Debug\netcoreapp3.1\StudentObjects.exe
+C:\Users\Rmagdaleno\source\repos\StudentObjects\StudentObjects\bin\Debug\netcoreapp3.1\StudentObjects.deps.json
+C:\Users\Rmagdaleno\source\repos\StudentObjects\StudentObjects\bin\Debug\netcoreapp3.1\StudentObjects.runtimeconfig.json
+C:\Users\Rmagdaleno\source\repos\StudentObjects\StudentObjects\bin\Debug\netcoreapp3.1\StudentObjects.runtimeconfig.dev.json
+C:\Users\Rmagdaleno\source\repos\StudentObjects\StudentObjects\bin\Debug\netcoreapp3.1\StudentObjects.dll
+C:\Users\Rmagdaleno\source\repos\StudentObjects\StudentObjects\bin\Debug\netcoreapp3.1\StudentObjects.pdb
+C:\Users\Rmagdaleno\source\repos\StudentObjects\StudentObjects\obj\Debug\netcoreapp3.1\StudentObjects.dll
+C:\Users\Rmagdaleno\source\repos\StudentObjects\StudentObjects\obj\Debug\netcoreapp3.1\StudentObjects.pdb
+C:\Users\Rmagdaleno\source\repos\StudentObjects\StudentObjects\obj\Debug\netcoreapp3.1\StudentObjects.genruntimeconfig.cache
